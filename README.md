@@ -8,7 +8,7 @@ Algoritmos</h1>
 Exercicios e desafios do Curso com carga horaria 40 horas
 
 # Características
-O Curso de Algoritmo é a base necessária para quem quer aprender em linguagens famosas do mercado, como C, Java, PHP e muitas outras. Focado em técnicas básicas para a construção de programas para dispositivos eletrônicos.
+O Curso de Algoritmo é a base necessária para quem quer aprender em linguagens como C, Java, PHP e muitas outras. Focado em técnicas básicas para a construção de programas para dispositivos eletrônicos.
 
 Algoritmos e Lógica de Programação é ministrado por Gustavo Guanabara.
 
