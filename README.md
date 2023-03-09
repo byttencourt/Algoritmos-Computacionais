@@ -15,7 +15,7 @@ Algoritmos e Lógica de Programação é ministrado por Gustavo Guanabara.
 # Screenshots
  <img src="https://i.imgur.com/hpkdWe3.png"> <img src="https://i.imgur.com/Jld7LVI.png">
 # Tech Used
- ![Portugol](https://img.shields.io/badge/portugol-studio-yellow)
+ ![Portugol](https://img.shields.io/badge/portugol-visualg20%studio-yellow)
       
 # Mais detalhes:
 100% Aproveitamento
