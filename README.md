@@ -19,7 +19,7 @@ Algoritmos e Lógica de Programação é ministrado por Gustavo Guanabara.
  ![VisuAlg](https://img.shields.io/badge/VisuAlg-studio-yellow)
       
 # Mais detalhes:
-100% Aproveitamento
+80% Aproveitamento
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=curso&message=concluido&color=GREEN&style=for-the-badge)<br>
 
