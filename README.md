@@ -13,7 +13,7 @@ O Curso de Algoritmo é a base necessária para quem quer aprender em linguagens
 Algoritmos e Lógica de Programação é ministrado por Gustavo Guanabara.
 
 # Screenshots
- <img src="https://i.imgur.com/hpkdWe3.png"> <img src="https://i.imgur.com/Jld7LVI.png">
+ <img src= "https://i.imgur.com/otSfUFp.png"> <img src="https://i.imgur.com/hpkdWe3.png"> <img src="https://i.imgur.com/Jld7LVI.png">
 # Tech Used
  ![Portugol](https://img.shields.io/badge/portugol-Linguage-blue)
  ![VisuAlg](https://img.shields.io/badge/VisuAlg-studio-yellow)
