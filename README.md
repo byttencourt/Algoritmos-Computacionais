@@ -1,5 +1,5 @@
 <div align="center">
- <h1> <img src="https://bookface-images.s3.amazonaws.com/logos/1672b1f48d0409604487d73da090b2e16754039d.png?1608308129" width="80px"><br/>Curso de
+ <h1> <img src="https://bookface-images.s3.amazonaws.com/logos/1672b1f48d0409604487d73da090b2e16754039d.png?1608308129" width="250px"><br/>Curso de
 Algoritmos</h1>
      </div>
 
