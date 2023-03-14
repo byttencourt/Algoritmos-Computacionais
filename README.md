@@ -5,12 +5,12 @@ Algoritmos</h1>
 
 
 # Descrição
-Exercicios e desafios do Curso com carga horaria 40 horas
+Exercicios e desafios do Curso com carga horaria de 40 horas
 
 # Características
 O Curso de Algoritmo é a base necessária para quem quer aprender em linguagens como C, Java, PHP e muitas outras. Focado em técnicas básicas para a construção de programas para dispositivos eletrônicos.
 
-Algoritmos e Lógica de Programação é ministrado por Gustavo Guanabara.
+Algoritmos e Lógica de Programação é ministrado por Gustavo Guanabara através do portal Curso em Vídeo.
 
 # Screenshots
  <img src= "https://i.imgur.com/otSfUFp.png"> <img src="https://i.imgur.com/hpkdWe3.png"> <img src="https://i.imgur.com/Jld7LVI.png">
